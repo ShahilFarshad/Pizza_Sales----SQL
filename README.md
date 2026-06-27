@@ -354,4 +354,4 @@ WHERE rn <= 3;
 **Shahil Farshad**  
 Data Analyst | SQL | Power BI | Python  
 [GitHub](https://github.com/ShahilFarshad)
-[LinkedIn].(www.linkedin.com/in/shahil-farshad-287374370)
+[LinkedIn](www.linkedin.com/in/shahil-farshad-287374370)
